@@ -10,10 +10,10 @@
 
 	width:150px;
 	height:200px;
-	object-fit:contain;
+	object-fit:cover;
 }
 .btn{
-{
+
 	padding:10px 20px;
 	background-color:"rgb(0,123,255)";
 	color:white;
